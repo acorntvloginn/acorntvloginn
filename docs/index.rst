@@ -2,9 +2,6 @@
 Acorn TV Login Account | Complete Sign In Guide
 =========================================
 
-:Description: Learn how to log in to your Acorn TV account quickly and securely. Follow this complete guide to access your streaming account, manage your subscription, activate devices, and troubleshoot common login issues.
-:Keywords: acorn tv login, acorn tv sign in, acorn tv account login, acorn tv login account, acorn tv streaming login, acorn tv dashboard, acorn tv account, acorn tv login guide
-
 Introduction
 ============
 
