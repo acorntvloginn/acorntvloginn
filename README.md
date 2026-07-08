@@ -1,16 +1,26 @@
-## Hi there 👋
+project = 'acorn tv-login'
+author = 'acorn tv-login'
+release = '1.0'
 
-<!--
-**acorntvloginn/acorntvloginn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Extensions
+extensions = [
+    'sphinx_sitemap',
+]
 
-Here are some ideas to get you started:
+# Paths
+templates_path = ['_templates']
+exclude_patterns = []
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Theme
+html_theme = 'alabaster'
+html_static_path = ['_static']
+
+# Custom JS & Favicon
+html_js_files = ['chatbot.js']  # chatbot widget
+html_favicon = '_static/favicon.png'
+
+# Google & Bing Verification Meta Tags
+html_context = {
+    "meta_tags": """
+    <meta name="google-site-verification" content="Cva8KgvW-eQpRtsdf8vIcSb023IJtLJfC8PxJAlQ0mc" />
+    <meta name="msvalidate.01" content="739245F5D54BCBF40AC056DC0CBF5710" />
